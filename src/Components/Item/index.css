@@ -1,0 +1,55 @@
+.text {
+  display: flex;
+  align-items: center;
+}
+.p1 {
+  margin-left: 20px;
+  font-size: 20px;
+  border-radius: 200px;
+  border-width: 0px;
+  color: white;
+  padding: 15px;
+  width: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para {
+  display: flex;
+  margin-left: 50px;
+}
+.p2 {
+  font-size: 20px;
+  width: 300px;
+  background-color: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 10px;
+}
+.p3 {
+  margin-left: 10px;
+  color: white;
+  font-size: 20px;
+}
+.one {
+  background-color: red;
+}
+.two {
+  background-color: yellow;
+}
+.three {
+  background-color: green;
+}
+.four {
+  background-color: pink;
+}
+.five {
+  background-color: blue;
+}
+
+.image1 {
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+}
