@@ -13,8 +13,9 @@ button {
 .inputBox {
   width: 700px;
   margin: 10px;
-  height: 20px;
+  height: 40px;
   border-radius: 10px;
+  border-color: #164b60;
 }
 .sender {
   display: flex;
